@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="297mm"
+   viewBox="0 0 300 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="Resultado-Reto-3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     width="300mm"
+     inkscape:zoom="1.0633188"
+     inkscape:cx="570.85422"
+     inkscape:cy="426.49487"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path14165" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path14162" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path14183" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path14180" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect9419"
+       style="fill:#aaffee;stroke:#000000;stroke-width:1.73595;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       d="M 267.8457 377.95312 L 267.8457 377.98633 A 113.38582 113.38582 0 0 0 155.34375 491.33789 A 113.38582 113.38582 0 0 0 267.8457 604.69141 L 267.8457 604.72461 L 834.77344 604.72461 L 834.77344 604.69141 A 113.38583 113.38583 0 0 0 835.66016 604.72461 A 113.38583 113.38583 0 0 0 949.04492 491.33789 A 113.38583 113.38583 0 0 0 835.66016 377.95312 A 113.38583 113.38583 0 0 0 834.77344 377.98633 L 834.77344 377.95312 L 267.8457 377.95312 z "
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/mecatronica-2021-2022/wiki/p_inkscape/Resultado-Reto-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.469;stroke-linecap:round;stroke-linejoin:round"
+       id="path10085"
+       cx="71.101501"
+       cy="130"
+       r="10"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/mecatronica-2021-2022/wiki/p_inkscape/Resultado-Reto-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.469;stroke-linecap:round;stroke-linejoin:round"
+       id="path10089"
+       cx="221.1015"
+       cy="130"
+       r="10"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/mecatronica-2021-2022/wiki/p_inkscape/Resultado-Reto-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="medidas"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+       d="m 70.867333,120 v 20"
+       id="path14160"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/mecatronica-2021-2022/wiki/p_inkscape/Resultado-Reto-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+       d="M 70.867333,84.106162 H 220.86733"
+       id="path14649"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/mecatronica-2021-2022/wiki/p_inkscape/Resultado-Reto-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.265;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 220.86733,84.106162 V 130"
+       id="path14764"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/mecatronica-2021-2022/wiki/p_inkscape/Resultado-Reto-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.265;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 70.867333,84.106162 V 130"
+       id="path14846"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/mecatronica-2021-2022/wiki/p_inkscape/Resultado-Reto-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.81944px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="128.9487"
+       y="81.131996"
+       id="text20284"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/mecatronica-2021-2022/wiki/p_inkscape/Resultado-Reto-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan20282"
+         style="font-size:8.81944px;stroke-width:0.264583"
+         x="128.9487"
+         y="81.131996">150mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05737px;line-height:1.25;font-family:sans-serif;stroke-width:0.176434"
+       x="84.556984"
+       y="132.40726"
+       id="text36860"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/mecatronica-2021-2022/wiki/p_inkscape/Resultado-Reto-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan36858"
+         style="stroke-width:0.176434"
+         x="84.556984"
+         y="132.40726">20 mm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+       d="m 262.43673,100 v 60"
+       id="path43945"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/mecatronica-2021-2022/wiki/p_inkscape/Resultado-Reto-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 220.86733,100 h 41.30814"
+       id="path43947"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/mecatronica-2021-2022/wiki/p_inkscape/Resultado-Reto-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 220.86733,160 h 41.30814"
+       id="path44029"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/mecatronica-2021-2022/wiki/p_inkscape/Resultado-Reto-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.88539px;line-height:1.25;font-family:sans-serif;stroke-width:0.197136"
+       x="257.07047"
+       y="136.57767"
+       id="text47949"
+       transform="scale(1.0294394,0.97140252)"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/mecatronica/mecatronica-2021-2022/wiki/p_inkscape/Resultado-Reto-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan47947"
+         style="stroke-width:0.197136"
+         x="257.07047"
+         y="136.57767">60 mm</tspan></text>
+  </g>
+</svg>
